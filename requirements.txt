@@ -1,0 +1,6 @@
+pynput
+pyperclip
+pystray
+Pillow
+tk
+winshell
